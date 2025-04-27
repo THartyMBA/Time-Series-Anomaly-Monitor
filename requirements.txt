@@ -1,0 +1,7 @@
+streamlit>=1.32
+pandas
+numpy
+plotly
+statsmodels
+prophet
+yagmail     # optional; omit if you don’t need email
